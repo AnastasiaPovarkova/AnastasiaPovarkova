@@ -31,8 +31,8 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 <div align="center">
   <h4>Frontend</h4>
-
-  &nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23303133.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![React](https://img.shields.io/badge/React-1D2C4E?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -44,7 +44,7 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 <div align="center">
   <h4>Backend</h4>
 
-  &nbsp;![NodeJS](https://img.shields.io/badge/Node.js-026E00?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/Node.js-026E00?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-1C4913?style=for-the-badge&logo=mongodb&logoColor=white)
   ![NGinx](https://img.shields.io/badge/NGinx-099639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -55,7 +55,7 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 <div align="center">
   <h4>Software</h4>
   
-  &nbsp;![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-642193?style=for-the-badge&logo=github&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-E46877?style=for-the-badge&logo=figma&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-f15a22?style=for-the-badge&logo=postman&logoColor=white)
@@ -64,7 +64,7 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 <div align="center">
   <h4>Code Style</h4>
 
-  &nbsp;![Eslint](https://img.shields.io/badge/Eslint-0078D4?style=for-the-badge&logo=eslint&logoColor=white)
+  ![Eslint](https://img.shields.io/badge/Eslint-0078D4?style=for-the-badge&logo=eslint&logoColor=white)
   [![code style: prettier](https://img.shields.io/badge/prettier-ff69b4.svg?style=for-the-badge&logo=prettier&logoColor=white)](https://github.com/prettier/prettier)
 </div>
 
@@ -85,6 +85,8 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" />
 <img src="https://media.giphy.com/media/ghI1gyqKymbY2mfYkD/giphy.gif" width="400" />
+
+&nbsp;
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
