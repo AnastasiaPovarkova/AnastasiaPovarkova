@@ -68,10 +68,15 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
   [![code style: prettier](https://img.shields.io/badge/prettier-ff69b4.svg?style=for-the-badge&logo=prettier&logoColor=white)](https://github.com/prettier/prettier)
 </div>
 
-<h3></h3>
-<div class="myWrapper" markdown="1" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnastasiaPovarkova&theme=nord_bright" alt="a" />
-</div>
+### Portfolio
+
+<a href="https://anastasiapovarkova.github.io/how-to-learn/" target="_blank">
+    <img src="https://github.com/AnastasiaPovarkova/how-to-learn/assets/113605691/5eab62d4-7748-4954-8110-24d55f50fc65" width="260" title="How To Learn" alt="How To Learn"/>
+</a>
+<a href="https://anastasiapovarkova.github.io/russian-travel/" target="_blank">
+    <img src="https://github.com/AnastasiaPovarkova/russian-travel/assets/113605691/50e898ae-748f-4327-8a16-fc1f9fcae4d8" width="260" title="Russian Travel" alt="Russian Travel"/>
+</a>
+
 
 <!--
 
@@ -80,20 +85,14 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 </div>
 [![codewars](https://www.codewars.com/users/AnastasiaPovarkova/badges/micro)](https://www.codewars.com/users/AnastasiaPovarkova) 
 
+<h3></h3>
+<div class="myWrapper" markdown="1" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnastasiaPovarkova&theme=nord_bright" alt="a" />
+</div>
+
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJpb3YyMm9wNmRxeGwzaGM0Znk1cmdzZG5tbHJpeGVzbmRnYW44aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" style="width:90%; height:90%" />
 <img src="https://media.giphy.com/media/QPUwZQSbYbt7gjjifj/giphy.gif" style="width:90%; height:90%" />
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" />
 <img src="https://media.giphy.com/media/ghI1gyqKymbY2mfYkD/giphy.gif" width="400" />
-
-&nbsp;
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="Eslint" **alt="Eslint" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" **alt="Nginx" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" **alt="webpack" width="40" height="40"/>&nbsp;
 -->
