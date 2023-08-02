@@ -70,7 +70,7 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 ### Portfolio
 
-<a href="https://github.com/AnastasiaPovarkova/how-to-learn" target="_blank">
+<a href="https://anastasiapovarkova.github.io/how-to-learn/" target="_blank">
     <img src="https://github.com/AnastasiaPovarkova/how-to-learn/blob/main/images/screensaver.png?raw=true" width="260" title="How To Learn" alt="How To Learn"/>
 </a>
 <a href="https://anastasiapovarkova.github.io/russian-travel/" target="_blank">
