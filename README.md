@@ -70,11 +70,11 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 ### Portfolio
 
-<a href="https://anastasiapovarkova.github.io/how-to-learn/" target="_blank">
-    <img src="https://github.com/AnastasiaPovarkova/how-to-learn/assets/113605691/5eab62d4-7748-4954-8110-24d55f50fc65" width="260" title="How To Learn" alt="How To Learn"/>
+<a href="https://github.com/AnastasiaPovarkova/how-to-learn" target="_blank">
+    <img src="https://github.com/AnastasiaPovarkova/how-to-learn/blob/main/images/screensaver.png?raw=true" width="260" title="How To Learn" alt="How To Learn"/>
 </a>
 <a href="https://anastasiapovarkova.github.io/russian-travel/" target="_blank">
-    <img src="https://github.com/AnastasiaPovarkova/russian-travel/assets/113605691/50e898ae-748f-4327-8a16-fc1f9fcae4d8" width="260" title="Russian Travel" alt="Russian Travel"/>
+    <img src="https://github.com/AnastasiaPovarkova/russian-travel/blob/main/images/screensaver.png?raw=true" width="260" title="Russian Travel" alt="Russian Travel"/>
 </a>
 
 
