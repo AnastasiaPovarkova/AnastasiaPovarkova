@@ -69,13 +69,21 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 </div>
 
 ### Portfolio
+<div align="center">
+  <h4>JS</h4>
 
 <a href="https://anastasiapovarkova.github.io/how-to-learn/" target="_blank">
-    <img src="https://github.com/AnastasiaPovarkova/how-to-learn/blob/main/images/screensaver.png?raw=true" width="260" title="How To Learn" alt="How To Learn"/>
+    <img src="https://github.com/AnastasiaPovarkova/how-to-learn/blob/main/images/screensaver.png?raw=true" width="260" height="150" title="How To Learn" alt="How To Learn"/>
 </a>
 <a href="https://anastasiapovarkova.github.io/russian-travel/" target="_blank">
-    <img src="https://github.com/AnastasiaPovarkova/russian-travel/blob/main/images/screensaver.png?raw=true" width="260" title="Russian Travel" alt="Russian Travel"/>
+    <img src="https://github.com/AnastasiaPovarkova/russian-travel/blob/main/images/screensaver.png?raw=true" width="260" height="150" title="Russian Travel" alt="Russian Travel"/>
 </a>
+<a href="https://anastasiapovarkova.github.io/mesto/" target="_blank">
+    <img src="https://github.com/AnastasiaPovarkova/mesto/blob/main/src/images/screensaver.png?raw=true" width="260" height="150" title="Russian Travel" alt="Russian Travel"/>
+</a>
+
+</div>
+
 
 
 <!--
