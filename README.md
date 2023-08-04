@@ -84,6 +84,14 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 </div>
 
+<div align="center">
+  <h4>React</h4>
+
+<a href="https://anastasiapovarkova.github.io/react-mesto-auth" target="_blank">
+    <img src="https://github.com/AnastasiaPovarkova/react-mesto-auth/blob/main/src/images/screensaverr.png?raw=true" width="260" height="150" title="Mesto React with Auth" alt="Mesto React with Auth"/>
+</a>
+
+</div>
 
 
 <!--
