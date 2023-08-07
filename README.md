@@ -79,7 +79,7 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
     <img src="https://github.com/AnastasiaPovarkova/russian-travel/blob/main/images/screensaver.png?raw=true" width="260" height="150" title="Russian Travel" alt="Russian Travel"/>
 </a>
 <a href="https://anastasiapovarkova.github.io/mesto/" target="_blank">
-    <img src="https://github.com/AnastasiaPovarkova/mesto/blob/main/src/images/screensaver.png?raw=true" width="260" height="150" title="Russian Travel" alt="Russian Travel"/>
+    <img src="https://github.com/AnastasiaPovarkova/mesto/blob/main/src/images/screensaver.png?raw=true" width="260" height="150" title="Mesto" alt="Mesto"/>
 </a>
 
 </div>
