@@ -24,6 +24,7 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 - :telescope: Разрабатываю веб-приложения на React
 
 - :seedling: В свободное время углубленно изучаю JS, React, TypeScript.
+- [![codewars](https://www.codewars.com/users/AnastasiaPovarkova/badges/micro)](https://www.codewars.com/users/AnastasiaPovarkova) 
 
 ---
 
@@ -99,7 +100,6 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 <div class="myWrapper" markdown="1" align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+Developer+from+Russia" alt="Typing SVG" />
 </div>
-[![codewars](https://www.codewars.com/users/AnastasiaPovarkova/badges/micro)](https://www.codewars.com/users/AnastasiaPovarkova) 
 
 <h3></h3>
 <div class="myWrapper" markdown="1" align="center">
