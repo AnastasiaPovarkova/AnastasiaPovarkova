@@ -85,11 +85,22 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 </div>
 
+<!--
 <div align="center">
   <h4>React</h4>
 
 <a href="https://anastasiapovarkova.github.io/react-mesto-auth" target="_blank">
     <img src="https://github.com/AnastasiaPovarkova/react-mesto-auth/blob/main/src/images/screensaverr.png?raw=true" width="260" height="150" title="Mesto React with Auth" alt="Mesto React with Auth"/>
+</a>
+
+</div>
+-->
+
+<div align="center">
+  <h4>React + Backend</h4>
+
+<a href="https://github.com/AnastasiaPovarkova/react-mesto-api-full-gha/tree/main" target="_blank">
+    <img src="https://github.com/AnastasiaPovarkova/react-mesto-auth/blob/main/src/images/screensaverr.png?raw=true" width="260" height="150" title="Mesto React + Backend" alt="Mesto React + Backend"/>
 </a>
 
 </div>
@@ -99,11 +110,6 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 <div class="myWrapper" markdown="1" align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+Developer+from+Russia" alt="Typing SVG" />
-</div>
-
-<h3></h3>
-<div class="myWrapper" markdown="1" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnastasiaPovarkova&theme=nord_bright" alt="a" />
 </div>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJpb3YyMm9wNmRxeGwzaGM0Znk1cmdzZG5tbHJpeGVzbmRnYW44aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" style="width:90%; height:90%" />
