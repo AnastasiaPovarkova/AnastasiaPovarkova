@@ -104,7 +104,7 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 </a>
 
 <a href="https://github.com/AnastasiaPovarkova/movies-explorer-frontend" target="_blank">
-    <img src="https://github.com/AnastasiaPovarkova/movies-explorer-frontend/blob/main/src/images/screensaver.png?raw=true" width="260" height="150" title="Movies-Explorer React" alt="Movies-Explorer React"/>
+    <img src="https://github.com/AnastasiaPovarkova/movies-explorer-frontend/blob/main/src/images/screensaverr.png?raw=true" width="260" height="150" title="Movies-Explorer React" alt="Movies-Explorer React"/>
 </a>
 
 </div>
