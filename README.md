@@ -23,7 +23,7 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 - :telescope: Разрабатываю веб-приложения на React
 
-- :seedling: В свободное время углубленно изучаю JS, React, TypeScript.
+- :seedling: В свободное время углубленно изучаю JS, React, TypeScript
 - [![codewars](https://www.codewars.com/users/AnastasiaPovarkova/badges/micro)](https://www.codewars.com/users/AnastasiaPovarkova) 
 
 ---
