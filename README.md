@@ -112,10 +112,6 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 <!--
 
-<div class="myWrapper" markdown="1" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+Developer+from+Russia" alt="Typing SVG" />
-</div>
-
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJpb3YyMm9wNmRxeGwzaGM0Znk1cmdzZG5tbHJpeGVzbmRnYW44aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" style="width:90%; height:90%" />
 <img src="https://media.giphy.com/media/QPUwZQSbYbt7gjjifj/giphy.gif" style="width:90%; height:90%" />
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
