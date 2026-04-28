@@ -1,9 +1,6 @@
 <div id="header" align="center" >
   <img src="https://media.giphy.com/media/l0HlTGVpr7ejMfP0c/giphy.gif" width="300" />
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnastasiaPovarkova&style=flat-square&color=yellow" alt=""/>
-</div>
 
 <h1 align="center">Hi there, I'm Anastasia</h1>
 <div id="badges" align="center">
